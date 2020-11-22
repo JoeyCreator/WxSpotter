@@ -1,5 +1,5 @@
 {
-  "name": "blitz-js",
+  "name": "wxspottervercelapp",
   "version": "1.0.0",
   "scripts": {
     "blitz": "PATH=/sandbox/node_modules/node/node_modules/.bin:$PATH blitz",
@@ -72,5 +72,7 @@
     "typescript": "^4.0.3",
     "ts-jest": "^26.4.1"
   },
-  "private": true
+  "private": true,
+  "keywords": [],
+  "description": ""
 }
