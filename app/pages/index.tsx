@@ -74,22 +74,10 @@ const Home: BlitzPage = () => {
             run the following in your terminal:
           </strong>
         </p>
-        <pre>
-          <code>blitz generate all project name:string</code>
-        </pre>
-        <pre>
-          <code>blitz db migrate</code>
-        </pre>
+        <pre></pre>
+        <pre></pre>
         <div>
-          <p>
-            Then <strong>restart the server</strong>
-          </p>
-          <pre>
-            <code>Ctrl + c</code>
-          </pre>
-          <pre>
-            <code>blitz start</code>
-          </pre>
+          <p></p>
           <p>
             and go to{" "}
             <Link href="/projects">
