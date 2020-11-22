@@ -1,0 +1,2 @@
+# WxSpotter
+Created with CodeSandbox
